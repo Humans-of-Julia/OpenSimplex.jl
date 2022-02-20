@@ -1,6 +1,6 @@
 name = "OpenSimplex"
 uuid = "eef0e480-5faf-4b4f-b6d4-a7c8209f0346"
-authors = ["ScottPJones <scottjones@alum.mit.edu> and contributors"]
+authors = ["ScottPJones <scottjones@alum.mit.edu>"]
 version = "0.1.0"
 
 [compat]
